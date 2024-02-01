@@ -13,7 +13,7 @@ end
 -- This is where you actually apply your config choices
 
 -- use powershell
-config.default_prog = { 'C:/Users/hmgngv/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShell_8wekyb3d8bbwe/pwsh.exe' }
+config.default_prog = { 'path/to/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShell_8wekyb3d8bbwe/pwsh.exe' }
 config.color_scheme = 'Monokai Remastered'
 config.font = wezterm.font 'JetBrains Mono'
 config.font_size = 11.5
