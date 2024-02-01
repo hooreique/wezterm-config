@@ -1,3 +1,13 @@
+A Personal Config for WezTerm on Windows
+
+## WezTerm
+
+[Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
+
+## Config
+
+Config File: `~/.wezterm.lua`
+
 ### Use PowerShell
 
 ```lua
